@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# 排除 Obsidian 軟體設定，只保留筆記內容
+Obsidian/.obsidian/
+# 如果你不希望報告和原始數據上傳（節省空間）
+*.pdf
+*.pptx
+*.docx
+*.csv
